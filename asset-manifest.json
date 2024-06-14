@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/airpods-lending/static/css/main.b185ef44.css",
-    "main.js": "/airpods-lending/static/js/main.44f06a34.js",
+    "main.js": "/airpods-lending/static/js/main.edef3b49.js",
     "static/js/787.41444407.chunk.js": "/airpods-lending/static/js/787.41444407.chunk.js",
     "static/media/background-main.jpg": "/airpods-lending/static/media/background-main.b21fc59ef3086b107f00.jpg",
     "static/media/background.jpg": "/airpods-lending/static/media/background.ea19b641aa8bfedcd814.jpg",
@@ -20,11 +20,11 @@
     "static/media/logo-instagram-black.png": "/airpods-lending/static/media/logo-instagram-black.07c18bec36dc90c4f3c8.png",
     "index.html": "/airpods-lending/index.html",
     "main.b185ef44.css.map": "/airpods-lending/static/css/main.b185ef44.css.map",
-    "main.44f06a34.js.map": "/airpods-lending/static/js/main.44f06a34.js.map",
+    "main.edef3b49.js.map": "/airpods-lending/static/js/main.edef3b49.js.map",
     "787.41444407.chunk.js.map": "/airpods-lending/static/js/787.41444407.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b185ef44.css",
-    "static/js/main.44f06a34.js"
+    "static/js/main.edef3b49.js"
   ]
 }
